@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Killer Queen
+layout: page
+title: About
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac elementum mi. Donec ac justo magna. Donec id consectetur arcu. Morbi sed massa sed nunc finibus elementum. Donec eget ante vel sapien laoreet pretium. In a nisi ultrices, laoreet felis sed, pharetra urna. Aenean facilisis ut neque mollis imperdiet. Aenean ultrices lectus cursus, ultricies arcu vitae, feugiat nisl. Maecenas ac tincidunt arcu, et facilisis nisi. Nunc in quam aliquet, vehicula tellus a, lacinia neque. Aenean interdum vulputate justo sollicitudin tempus. Duis euismod pretium orci fermentum pellentesque. Sed interdum dui in consectetur feugiat. Sed laoreet eleifend leo in accumsan. Cras dignissim sapien eget nunc placerat ultrices vel vel augue.
