@@ -11,7 +11,7 @@ title:            Eerie Island
 tagline:          'A Local Multiplayer Game Company'
 description:      'https://github.com/poole/hyde.git'
 url:              http://www.eerieisland.com
-baseurl:          http://www.eerieisland.com/
+baseurl:          http://www.eerieisland.com
 
 author:
   name:           'Mark Otto'
