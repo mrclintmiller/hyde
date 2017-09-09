@@ -21,7 +21,7 @@ Spy Camera is an iPhone app accesory for Codenames that uses augmented reality t
 
 We're hard at work getting the first version to the app store. Join our mailing list to be notified of updates and to be invited to the **closed beta!**
 
-<p style="color:#C9C9C9";>Red paragraph text</p>CODENAMES® is a registered trademark of Czech Games Edition Inc. Spy Camera is not associated with or sponsored by Czech Games Edition Inc.</p>
+<p style="color:#C9C9C9">CODENAMES® is a registered trademark of Czech Games Edition Inc. Spy Camera is not associated with or sponsored by Czech Games Edition Inc.</p>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
