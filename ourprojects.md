@@ -2,11 +2,24 @@
 layout: page
 title: Our Projects
 ---
+## Spy Camera
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac elementum mi. Donec ac justo magna. Donec id consectetur arcu. Morbi sed massa sed nunc finibus elementum. Donec eget ante vel sapien laoreet pretium. In a nisi ultrices, laoreet felis sed, pharetra urna. Aenean facilisis ut neque mollis imperdiet. Aenean ultrices lectus cursus, ultricies arcu vitae, feugiat nisl. Maecenas ac tincidunt arcu, et facilisis nisi. Nunc in quam aliquet, vehicula tellus a, lacinia neque. Aenean interdum vulputate justo sollicitudin tempus. Duis euismod pretium orci fermentum pellentesque. Sed interdum dui in consectetur feugiat. Sed laoreet eleifend leo in accumsan. Cras dignissim sapien eget nunc placerat ultrices vel vel augue.
+![Spy Camera](http://www.eerieisland.com/images/spy-camera.png "Spy Camera")
 
-Phasellus tincidunt efficitur volutpat. Nam a rutrum massa. Quisque velit est, tincidunt et eleifend eget, tempor vitae tortor. Nulla ac fermentum nulla. Pellentesque malesuada lectus odio, vel elementum tortor pretium bibendum. Quisque non dui ullamcorper, finibus nibh eu, suscipit turpis. Ut maximus neque ante, sed convallis ipsum molestie sed.
+Codenames by Vlaada Chvátil is one of the best party games ever designed. It's easy to learn, supports almost any player count and rewards intelligence over luck.
 
-Nunc suscipit fringilla nibh, ut egestas orci. Duis a eros massa. Sed risus magna, commodo elementum mollis ac, elementum at nisi. Nullam sagittis libero eget neque volutpat, sit amet malesuada risus condimentum. Cras nec ex ut augue porta bibendum. Fusce accumsan vel augue vulputate ornare. Praesent faucibus mi eu mollis efficitur. Mauris non condimentum arcu, ac tempor sem. Vestibulum luctus tempus ipsum in dapibus. Praesent sit amet elit eu enim pellentesque tempus. Etiam sollicitudin ut est et porttitor. Sed semper tellus et porttitor mollis. Cras lobortis, nisi varius pellentesque tincidunt, ligula eros condimentum orci, fringilla lacinia turpis metus ut odio.
+We've play dozens of rounds of it, and turned on countless new players after a game or two.
 
-Donec ultricies bibendum nibh quis porttitor. Pellentesque sed metus maximus diam mollis elementum. In accumsan sem tellus, eu congue mi tempor a. Fusce sem ligula, condimentum non imperdiet vel, consequat eu lacus. Nunc eu nisi in dui malesuada rhoncus. Ut et auctor nisi. Ut sollicitudin, lectus vitae mattis pharetra, libero nibh ultricies velit, id pretium lacus diam sed nulla. Aliquam consectetur lorem ut urna tincidunt, at tempus ipsum fermentum. Maecenas fermentum sagittis mauris, vitae luctus dui fringilla et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris magna elit, molestie eu rutrum id, ullamcorper et leo.
+Now, we want to make everyone's Codenames experience even better.
+
+Presenting Spy Camera.
+
+Spy Camera an iPhone app accesory for Codenames that uses augmented reality to show the spymasters the words their team needs to guess (and not guess!)
+- Spymasters will no longer need to look back and forth from the the key card, to the board and back again to come up with clues
+- As the game progresses, there will be no need to mentally “erase” clues that have already been guessed
+- Gives the spymasters 3 ways to filter the key card. Red Team, Blue Team and Both Teams.
+
+We're hard at work getting the first version to the app store. Join our mailing list to be notified of updates and to be invited to the closed beta!
+
+
+
