@@ -19,7 +19,7 @@ Spy Camera an iPhone app accesory for Codenames that uses augmented reality to s
 - As the game progresses, there will be no need to mentally “erase” clues that have already been guessed
 - Gives the spymasters 3 ways to filter the key card. Red Team, Blue Team and Both Teams.
 
-We're hard at work getting the first version to the app store. Join our mailing list to be notified of updates and to be invited to the closed beta!
+We're hard at work getting the first version to the app store. Join our mailing list to be notified of updates and to be invited to the **closed beta!**
 
 
 
