@@ -12,7 +12,7 @@ We've play dozens of rounds of it, and turned on countless new players after a g
 
 Now, we want to make everyone's Codenames experience even better.
 
-Presenting Spy Camera.
+**Presenting Spy Camera.**
 
 Spy Camera an iPhone app accesory for Codenames that uses augmented reality to show the spymasters the words their team needs to guess (and not guess!)
 - Spymasters will no longer need to look back and forth from the the key card, to the board and back again to come up with clues
