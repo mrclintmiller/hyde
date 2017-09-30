@@ -22,4 +22,24 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  
+ <meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.title %}
+  <meta content="article" property="og:type">
+{% else %}
+  <meta content="website" property="og:type">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if post.image %}
+  <meta content="{{ post.image }}" property="og:image">
+{% else %}
+  <meta content="http://www.eerieisland.com/images/eerie-island-logo.png" property="og:image">
+{% endif %}
 </head>
