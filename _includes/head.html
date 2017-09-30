@@ -37,8 +37,8 @@
 {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 {% endif %}
-{% if post.image %}
-  <meta content="{{ post.image }}" property="og:image">
+{% if page.image %}
+  <meta content="{{ page.image }}" property="og:image">
 {% else %}
   <meta content="http://www.eerieisland.com/images/eerie-island-logo.png" property="og:image">
 {% endif %}
