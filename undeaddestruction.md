@@ -2,7 +2,6 @@
 layout: page
 title: Undead Destruction
 ---
-## Undead Destruction
 
 ![Undead Destruction](http://www.eerieisland.com/images/undead.png "Undead Destruction")
 
