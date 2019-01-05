@@ -5,7 +5,7 @@ title: Undead Destruction
 
 ![Undead Destruction](http://www.eerieisland.com/images/undead.png "Undead Destruction")
 
-A strategic party game with frightening sound design to fully immerse players in a post-apocalyptic dystopia.
+A strategic party game with frightening sound design to fully immerse players in a post-apocalyptic dystopia. Built for the Google Home.
 
 - Interesting Decisions - Surprisingly deep gameplay that's easy to learn
 
