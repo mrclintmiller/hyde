@@ -2,7 +2,6 @@
 layout: page
 title: Spy Camera
 ---
-## Spy Camera
 
 ![Spy Camera](http://www.eerieisland.com/images/spy-camera.png "Spy Camera")
 
