@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Projects
+title: Spy Camera
 ---
 ## Spy Camera
 
