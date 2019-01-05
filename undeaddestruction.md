@@ -4,7 +4,7 @@ title: Undead Destruction
 ---
 ## Undead Destruction
 
-![Spy Camera](http://www.eerieisland.com/images/spy-camera.png "Spy Camera")
+![Undead Destruction](http://www.eerieisland.com/images/undead.png "Undead Destruction")
 
 A strategic party game with frightening sound design to fully immerse players in a post-apocalyptic dystopia.
 
