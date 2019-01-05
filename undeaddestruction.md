@@ -11,6 +11,7 @@ A strategic party game with frightening sound design to fully immerse players in
 - Interesting Decisions - Surprisingly deep gameplay that's easy to learn
 
 - Press Your Luck - String together multiple turns as long as you keep killing zombies, but be careful because one slip can lose all your points for the round
+
 - Unique experience - Multiplayer, Quick setup, Immersive sound effects, Tabletop feel all make for a game like nothing you've ever played!
 
 The game is getting close to being complete. Join our mailing list to be notified of updates and to be invited to the **closed beta!**
