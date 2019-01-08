@@ -15,6 +15,7 @@ A strategic party game with frightening sound design to fully immerse players in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ErsQL1hyQdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 The game is getting close to being complete. Join our mailing list to be notified of updates and to be invited to the **closed beta!**
 
 
