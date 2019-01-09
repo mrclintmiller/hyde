@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spy Camera
+image: http://www.eerieisland.com/images/spy-camera.png
 ---
 
 ![Spy Camera](http://www.eerieisland.com/images/spy-camera.png "Spy Camera")
