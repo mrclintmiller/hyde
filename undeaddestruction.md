@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Undead Destruction
+image: http://www.eerieisland.com/images/undead.png
 ---
 
 ![Undead Destruction](http://www.eerieisland.com/images/undead.png "Undead Destruction")
